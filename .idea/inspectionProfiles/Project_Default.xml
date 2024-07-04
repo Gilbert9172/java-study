@@ -1,0 +1,6 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Dependency" enabled="true" level="Do Not Use" enabled_by_default="true" editorAttributes="Do Not Use" />
+  </profile>
+</component>
